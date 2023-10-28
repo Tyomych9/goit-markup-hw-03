@@ -1,0 +1,284 @@
+body {
+    font-family:'Roboto',sans-serif;
+    line-height: 1.5;
+    color: #434455;
+    background-color: #FFFFFF ;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.wed {
+
+
+    font-family: "Raleway",sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+   
+
+}
+
+.wed:hover,
+.wed:focus {
+    color: #404bbf;
+    letter-spacing: 0.03em;
+}
+
+.studio{
+    font-size: 18px;
+    font-family: "Raleway";
+    font-weight: 700;
+    color: #2e2f42;
+    letter-spacing: 0.03em;
+
+    
+}
+ 
+
+.navi{
+
+    letter-spacing: 0.02em;
+
+}
+
+
+.navigation-form {
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: rgba(46, 47, 66, 1);
+    letter-spacing: 0.02em;
+   
+    
+}
+
+
+.navigation-form:hover,
+.navigation-form:focus {
+   
+    color: rgba(64, 75, 191, 1);
+    letter-spacing: 0.02em;
+    
+}
+
+.contakt{
+    font-style: normal;
+    letter-spacing: 0.02em
+}
+
+.contakt .contakt-form{
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: rgba(67, 68, 85, 1);
+  
+}
+
+.contakt .contakt-form:hover,
+.contakt .contakt-form:active,
+.contakt .contakt-form:focus{
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: #404bbf;
+   
+}
+
+
+/*class main*/
+
+.center {
+    background-color: #2E2F42;
+}
+
+.center-ab {
+
+    font-size: 56px;
+    font-family: "Roboto";
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    line-height:1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+   
+
+}
+
+.knop {
+    background-color: #4D5AE5;
+    cursor: pointer;
+    font-weight:500;
+    color: #ffffff;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+   
+}
+
+.knop:hover,
+.knop:focus {
+    
+    background-color: #404BBF;
+    cursor: pointer;
+    font-weight:500;
+    color: #ffffff;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+
+.center-knop {
+
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight:500;
+    color: #ffffff;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    
+
+    
+}
+
+.abzac{
+
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: rgba(46, 47, 66, 1);
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    
+}
+
+
+.paragraf {
+
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: rgba(67, 68, 85, 1);
+    letter-spacing: 0.02em;
+    
+}
+
+.tim-pipl{
+    background-color: #F4F4FD;
+}
+
+.tim {
+
+font-size: 36px;
+font-family: "Roboto";
+font-weight: 700;
+color: rgba(46, 47, 66, 1);
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+
+
+
+}
+
+.pipl-gais {
+    background-color:#FFFFFF ;
+}
+
+.pipl {
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: rgba(46, 47, 66, 1);
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+
+    
+
+}
+
+
+.pipl-works{
+
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: rgba(67, 68, 85, 1);
+    letter-spacing: 0.02em;
+    
+}
+
+
+.sect-port {
+    background-color: #F4F4FD ;
+}
+
+
+.opshen {
+
+    font-size: 36px;
+    font-family: "Roboto";
+    font-weight: 700;
+    color: #2e2f42;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+
+}
+
+
+.opshen-item {
+
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: rgba(46, 47, 66, 1);
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+
+}
+
+
+.opshen-skill {
+
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: rgba(67, 68, 85, 1);
+    letter-spacing: 0.02em;
+
+}
+
+.doun {
+    background-color: #2E2F42;
+}
+
+
+.leg{
+
+font-size: 16px;
+font-family: "Roboto";
+font-weight: 400;
+color: rgba(244, 244, 253, 1);
+letter-spacing: 0.02em ;
+
+
+}
+
+.studion {
+
+    font-size: 18px;
+    font-family: "Raleway";
+    font-weight: 700;
+    letter-spacing:0.03em;
+    color: rgba(244, 244, 253, 1);
+}
